@@ -1,0 +1,3 @@
+input_string = input("Enter a string: ")
+result = remove_vowels(input_string)
+print("Result:", result)
